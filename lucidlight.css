@@ -1,0 +1,47 @@
+h1
+{
+background: #caf6ff;
+color: black;
+font-family: gabriola;
+font-weight: bold;
+font-size: 65px;
+display: inline-block ;
+padding: 40px;
+
+}
+
+
+p
+{font-style: italic;
+font-size: 15px;
+text-align: center;
+}
+
+
+h2, h3, h4, h5 
+{
+	background: #6497b1;
+	color: white;
+	font-family: gabriola ;
+	font-size: 20px;
+	display: inline-block;
+
+}
+
+
+.row
+{color: red;}
+
+
+ul
+{color: red;}
+
+
+
+
+
+
+
+
+
+
